@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2013.8.12)  21 NOV 2013 16:38
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009/Debian) (format=xelatex 2013.8.12)  22 NOV 2013 13:36
 entering extended mode
  %&-line parsing enabled.
 **presentation.tex
@@ -997,9 +997,11 @@ File: replace.png Graphic file (type QTm)
 
 ] [16
 
+] [17
+
 ]
 File: lifejacket.png Graphic file (type QTm)
- <use  "lifejacket.png" > [17
+ <use  "lifejacket.png" > [18
 
 ]
 \tf@nav=\write6
@@ -1021,4 +1023,4 @@ Here is how much of TeX's memory you used:
  669 hyphenation exceptions out of 8191
  49i,16n,60p,483b,1081s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on presentation.pdf (17 pages).
+Output written on presentation.pdf (18 pages).

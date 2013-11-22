@@ -73,13 +73,15 @@
 \begin{frame}{Και τι να το κάνω εγώ αυτό;}
  Να το χρησιμοποιήσεις για τις ομαδικές εργασίες σου γιατί: 
   \begin{itemize}
-    \item Κρατάς - ελέγχεις εύκολα ιστορικό αλλαγών
+    \item Κρατάς - ελέγχεις εύκολα ιστορικό αλλαγών.
     \pause
-    \item Ανακαλείς τα αρχεία - project σε προηγούμενη κατάσταση
+    \item Ανακαλείς τα αρχεία - project σε προηγούμενη κατάσταση.
     \pause
-    \item Παρέχει μια μορφή backup
+    \item Παρέχει μια μορφή backup.
     \pause
-    \item Μπορείς να μοιραστείς εύκολα τον κώδικα
+    \item Μπορείς να μοιραστείς εύκολα τον κώδικα.
+    \pause
+    \item Ζητείται συχνά γνώση κάποιου VCS σε εργασιακό περιβάλλον.
   \end{itemize}
 \end{frame}
 
@@ -118,6 +120,7 @@
 	\item  \href{http://git-scm.com/book}{Ανοικτό Βιβλίο}
 	\item \href{http://try.github.io/levels/1/challenges/1}{Tutorial}
 	\item \href{http://git-scm.com/book/ch4-2.html}{Στήσιμο git repo σε δικό μας server}
+	\item \href{https://netbeans.org/kb/docs/ide/git.html}{Χρήση git με το Netbeans}
       \end{itemize}
     \end{block}
 \end{columns}
